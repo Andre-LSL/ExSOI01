@@ -30,4 +30,5 @@ um vetor de entrada de 8 posições.
 
 Programador: André Luiz
 
-Última alteração:
+Última alteração: 11/08/24
+
